@@ -3,19 +3,11 @@
 
 <br />
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="src/titleType.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="src/titleType-light.svg" />
-	<img height="50px" src="src/titleType.svg" />
-</picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=F5ABB9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" alt="Typing SVG" /></a>
 
 <br />
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
-	<img height="40px" src="src/titleType-en.svg" />
-</picture>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=F5ABB9&multiline=true&width=435&lines=Hello%2Cthis+is+QHLQY" alt="Typing SVG" /></a>
 
 ## 个人简介 Profile
 
