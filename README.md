@@ -95,16 +95,4 @@
     - NameMC : [QHLQY](https://namemc.com/profile/qhlqy)
     - Minecraft ID : QHLQY
 
-<!-- 动态渐变打字标题 -->
-<picture>
-  <!-- 深色模式 -->
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
-  <!-- 浅色模式 -->
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
-  <!-- 默认显示 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/QHLQY/QHLQY/main/src/title-gradient.svg" height="50px" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=100&color=F5ABB9&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD;Hello%2Cthis+is+QHLQY" alt="Typing SVG" /></a>
