@@ -106,3 +106,5 @@
   <!-- 默认显示 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/QHLQY/QHLQY/main/src/title-gradient.svg" height="50px" />
