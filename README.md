@@ -4,9 +4,6 @@
 <br />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=F5ABB9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" alt="Typing SVG" /></a>
-
-<br />
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=F5ABB9&multiline=true&width=435&lines=Hello%2Cthis+is+QHLQY" alt="Typing SVG" /></a>
 
 ## 个人简介 Profile
@@ -87,4 +84,27 @@
     - NameMC : [QHLQY](https://namemc.com/profile/qhlqy)
     - Minecraft ID : QHLQY
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=100&color=F5ABB9&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD;Hello%2Cthis+is+QHLQY" alt="Typing SVG" /></a>
+<picture>
+  <!-- 深色模式 -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" />
+
+  <!-- 浅色模式 -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" />
+
+  <!-- 默认显示 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=550&height=70&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%83%E6%B5%B7%E8%90%BD%E5%8D%83%E7%BE%BD" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=435&lines=Hello%2C+this+is+QHLQY" />
+
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=435&lines=Hello%2C+this+is+QHLQY" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=100&color=5bcffa,ffffff,f5abb9&multiline=true&width=435&lines=Hello%2C+this+is+QHLQY" />
+</picture>
