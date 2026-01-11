@@ -1,0 +1,10 @@
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5bcffa"></stop>
+      <stop offset="50%" stop-color="#ffffff"></stop>
+      <stop offset="100%" stop-color="#f5abb9"></stop>
+    </linearGradient>
+  </defs>
+  <text x="0" y="60" font-family="Fira Code" font-size="50" fill="url(#grad)">七海落千羽 QHLQY</text>
+</svg>
