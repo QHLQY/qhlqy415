@@ -17,18 +17,11 @@
 	<img height="40px" src="src/titleType-en.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FFFFFF&width=800&lines=七海落千羽+QHLQY" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=000000&width=800&lines=七海落千羽+QHLQY" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=000000&width=800&lines=七海落千羽+QHLQY" />
-</picture>
-
 ## 个人简介 Profile
 
 [![Steam](https://img.shields.io/badge/QHLQY-black.svg?logo=Steam)](https://steamcommunity.com/profiles/000/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-QHLQY-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/QHLQY)
 [![Bilibili](https://img.shields.io/badge/QHLQY-pink.svg?logo=Bilibili)](https://space.bilibili.com/1592281401)
-
 ![Name](https://img.shields.io/badge/QHLQY-七海落千羽-blue)
 
 
@@ -89,7 +82,7 @@
 
 ## 一些链接 Links
 
-![QHLQY的个人网站](https://qhlqy.github.io/415.github.io/)
+[![个人网站](https://img.shields.io/badge/QHLQY-pink.svg?logo=个人网站)](https://qhlqy.github.io/415.github.io/)
 
 
 ## 联系方式 Contact me
@@ -99,6 +92,17 @@
     - E-mail : [xiemjang@outlook.com](mailto:xiemjang@outlook.com)
     - BiliBili : [QHLQY](https://space.bilibili.com/1592281401)
     - Twitter(X) : [QHLQY](https://x.com/QHLQY0512)
-    - Minecraft ID : QHLQY
     - NameMC : [QHLQY](https://namemc.com/profile/qhlqy)
+    - Minecraft ID : QHLQY
 
+<!-- 动态渐变打字标题 -->
+<picture>
+  <!-- 深色模式 -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
+  <!-- 浅色模式 -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
+  <!-- 默认显示 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=5bcffa,ffffff,f5abb9&width=800&lines=七海落千羽+QHLQY" />
+</picture>
