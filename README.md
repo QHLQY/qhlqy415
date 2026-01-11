@@ -1,4 +1,5 @@
-<img src="src/round.png" width="250px" height="250px" align="right" />
+<img src="https://raw.githubusercontent.com/QHLQY/QHLQY/main/src/round.png"
+     width="250" style="float:right;" />
 
 <br />
 
@@ -14,6 +15,12 @@
 	<source media="(prefers-color-scheme: dark)" srcset="src/titleType-en.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="src/titleType-en-light.svg" />
 	<img height="40px" src="src/titleType-en.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FFFFFF&width=800&lines=七海落千羽+QHLQY" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=000000&width=800&lines=七海落千羽+QHLQY" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=000000&width=800&lines=七海落千羽+QHLQY" />
 </picture>
 
 ## 个人简介 Profile
@@ -36,15 +43,38 @@
 - 性取向为泛性恋, 性别存疑(?)
     - Sexual orientation is Pansexual, gender is uncertain(?)
 
-
 ## 开发概况 Development
 
 - 正在学习HTML/CSS
     - I am learning HTML/CSS.
 
-<!--START_SECTION:waka-->
+## 📊 GitHub 统计 Stats
 
-<!--END_SECTION:waka-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=QHLQY&show_icons=true&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=QHLQY&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=QHLQY&show_icons=true&hide_border=true" />
+</picture>
+
+<br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QHLQY&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QHLQY&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QHLQY&layout=compact&hide_border=true" />
+</picture>
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
@@ -52,9 +82,10 @@
 	<img src="src/snake-light.svg" />
 </picture>
 
+
 ## 我的仓库 Repository
 
-[![Blog]()
+[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
 
 ## 一些链接 Links
 
@@ -65,7 +96,7 @@
 
 - 各个平台的账号 Account in other platforms
   
-    - E-mail : [xiemjang@outlook.com](xiemjang@outlook.com)
+    - E-mail : [xiemjang@outlook.com](mailto:xiemjang@outlook.com)
     - BiliBili : [QHLQY](https://space.bilibili.com/1592281401)
     - Twitter(X) : [QHLQY](https://x.com/QHLQY0512)
     - Minecraft ID : QHLQY
