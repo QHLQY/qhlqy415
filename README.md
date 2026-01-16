@@ -53,7 +53,7 @@
 
 ## Repository
 
-[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://qhlqy.github.io/415.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-Website-blue)](https://546426.vercel.app/)
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake-dark.svg" />
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QHLQY/QHLQY/output/github-contribution-grid-snake.svg">
@@ -63,7 +63,6 @@
 ## Links
 
 [![个人网站](https://img.shields.io/badge/QHLQY-Website-pink)](https://qhlqy.github.io/415.github.io/)
-
 
 ## Contact me
 
